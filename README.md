@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pevitt</h1>
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
-- 🌱 I’m currently learning **react and improving my skills in django and python**
+- 🌱 I’m currently learning **data scient and improving my skills in django and python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pevitt](https://github.com/pevitt)
 
